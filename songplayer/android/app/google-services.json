@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "541811076039",
+    "project_id": "fir-demo-5e910",
+    "storage_bucket": "fir-demo-5e910.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541811076039:android:16fc60f444d02c834b07e2",
+        "android_client_info": {
+          "package_name": "com.example.songplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541811076039-a42ol9u7jforpt8f5ctmo8pr965n5foa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjgVsJ3607Yl6tZ8FQfufF6CKP63bpYiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541811076039-a42ol9u7jforpt8f5ctmo8pr965n5foa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
